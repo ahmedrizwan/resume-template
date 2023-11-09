@@ -9,7 +9,15 @@
 There are two boards, one has the components and the other one is the resume itself.
 The resume board relies on a bunch of auto-layouts so that you don't have to manage layout & spacing manually. 
 
-If you like the template - you can support the work via: 
+<details>
+<summary>Full Preview</summary>
+  
+<img src="https://github.com/ahmedrizwan/resume-template/assets/4357275/f691be4b-0181-42c9-98c1-5e0606d2f707" width="700" />
+
+</details>
+
+
+If you'd like to support this work: 
 
 <a href="https://www.buymeacoffee.com/xsAzLtYRw"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xsAzLtYRw&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
