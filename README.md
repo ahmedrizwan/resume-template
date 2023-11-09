@@ -12,7 +12,7 @@ The resume board relies on a bunch of auto-layouts so that you don't have to man
 <details>
 <summary>Full Preview</summary>
 <br/>
-<img src="https://github.com/ahmedrizwan/resume-template/assets/4357275/712f7d73-74b3-430b-96ef-7c619674080e" width="700" />
+<img src="https://github.com/ahmedrizwan/resume-template/assets/4357275/5bf9bdea-b0f1-4837-a4d5-d1110c641102" width="700" />
 <br/>
 </details>
 
