@@ -2,7 +2,7 @@
 
 ### Resume Template for Software Engineers
 
-- Download `resume.fig`
+- Download `resume-template.fig`
 - Import in Figma
 - Edit to make it your own!
 
