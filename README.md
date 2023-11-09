@@ -1,4 +1,4 @@
-![resume-banner](https://github.com/ahmedrizwan/resume/assets/4357275/d3ed13cc-71ba-4173-b8b0-b627227c9112)
+![resume-banner](https://github.com/ahmedrizwan/resume-template/assets/4357275/da21e3ff-4a21-44bc-a78b-11d1e6966427)
 
 ### Resume Template for Software Engineers
 
@@ -11,9 +11,9 @@ The resume board relies on a bunch of auto-layouts so that you don't have to man
 
 <details>
 <summary>Full Preview</summary>
-  
-<img src="https://github.com/ahmedrizwan/resume-template/assets/4357275/f691be4b-0181-42c9-98c1-5e0606d2f707" width="700" />
-
+<br/>
+<img src="https://github.com/ahmedrizwan/resume-template/assets/4357275/712f7d73-74b3-430b-96ef-7c619674080e" width="700" />
+<br/>
 </details>
 
 
