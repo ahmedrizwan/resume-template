@@ -19,6 +19,6 @@ The resume board relies on a bunch of auto-layouts so that you don't have to man
 
 If you'd like to support this work: 
 
-<a href="https://www.buymeacoffee.com/xsAzLtYRw"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xsAzLtYRw&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/ahmedrizwan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ahmedrizwan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 License: MIT
